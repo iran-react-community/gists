@@ -8,7 +8,7 @@
 
   | نام پوشه | کاربرد |
   |-------|-----|
-  | [ سمپل ](https://www.github.com/iran-react-community/gists/sample)| یک سمپل برای ایجاد gist در این مخزن |
+  | [ سمپل ](https://www.github.com/iran-react-community/gists/tree/master/Sample)| یک سمپل برای ایجاد gist در این مخزن |
 
 
 </div>
